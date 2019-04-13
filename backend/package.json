@@ -10,6 +10,10 @@
   "author": "Ripon Ghosh",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "passport": "^0.4.0",
+    "passport-facebook-token": "^3.3.0"
   }
 }
